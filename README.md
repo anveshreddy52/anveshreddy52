@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149373211.jpg?t=st=1725301488~exp=1725305088~hmac=eb0394d2c7cce00b927a144c18e055f7bbc58ecf37898b2a4d3ff43540651300&w=996)]
+![MasterHead](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149373211.jpg?t=st=1725301488~exp=1725305088~hmac=eb0394d2c7cce00b927a144c18e055f7bbc58ecf37898b2a4d3ff43540651300&w=996)
 <h1 align="center">Hi 👋, I'm Anvesh Reddy</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
